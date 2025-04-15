@@ -1,10 +1,8 @@
 package factory;
-import java.sql.*;
-
 
 public class KnifeFactory {
 
-    public KnifeFactory createKnife(String knifeType){
+    public Knife createKnife(String knifeType){
 
     Knife knife = null;
 
@@ -14,5 +12,5 @@ public class KnifeFactory {
         knife = new ChefsKnife();
     }
     return knife;
-}
+    }
 }

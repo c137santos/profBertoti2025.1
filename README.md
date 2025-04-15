@@ -20,7 +20,18 @@ There are 3 different types of design patterns:
 1.2 - AntiPattern - [access here](./singleton/AntiPatterns.Java)
 1.3 - UML - [access here](./singleton/singletonUMLExp.png)
 
-
 2.1 - Composite - [access here](./composite/Composite.Java)
 2.2 - AntiPatter - [access here](./composite/AntiPatterns.Java)
 2.3 - UML - [access here](./composite/compositeUML.png)
+
+3.4 - Factory - [access here](./factory/StoreKnife.Java)  
+3.5 - AntiPattern - [access here](./factory/AntiPatternFactory.Java)  
+3.6 - UML - [access here](./factory/factoryUML.png)  
+
+4.7 - Strategy - [access here](./strategy/Strategy.Java)  
+4.8 - AntiPattern - [access here](./strategy/AntiPatterns.Java)  
+4.9 - UML - [access here](./strategy/strategyUML.png)  
+
+5.10 - Observer - [access here](./observer/Blog.Java)  
+5.11 - AntiPattern - [access here](./observer/AntiPatternObserver.Java)  
+5.12 - UML - [access here](./observer/observerUML.png)  

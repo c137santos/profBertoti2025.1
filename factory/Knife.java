@@ -1,5 +1,13 @@
 package factory;
 
-public class Knife {
+public interface Knife {
 
+    @Override
+    String toString();
+
+    String sharpen();
+
+    String polish();
+
+    String packageKnife();
 }
