@@ -19,19 +19,24 @@ There are 3 different types of design patterns:
 1.1 - Singleton - [access here](./singleton/DatabaseSingleton.Java)
 1.2 - AntiPattern - [access here](./singleton/AntiPatterns.Java)
 1.3 - UML - [access here](./singleton/singletonUMLExp.png)
+1.4 - Explanation - [access here](./singleton/Singleton.MD)
 
 2.1 - Composite - [access here](./composite/Composite.Java)
 2.2 - AntiPatter - [access here](./composite/AntiPatterns.Java)
 2.3 - UML - [access here](./composite/compositeUML.png)
+2.4 - Explanation - [access here](./composite/Composite.MD)
 
 3.4 - Factory - [access here](./factory/StoreKnife.Java)  
 3.5 - AntiPattern - [access here](./factory/AntiPatternFactory.Java)  
-3.6 - UML - [access here](./factory/factoryUML.png)  
+3.6 - UML - [access here](./factory/factoryUML.png)
+3.7 - Explanation - [access here](./factory/Factory.MD)
 
 4.7 - Strategy - [access here](./strategy/Strategy.Java)  
 4.8 - AntiPattern - [access here](./strategy/AntiPatterns.Java)  
-4.9 - UML - [access here](./strategy/strategyUML.png)  
+4.9 - UML - [access here](./strategy/strategyUML.png)
+4.10 - Explanation - [access here](./strategy/Strategy.MD)
 
 5.10 - Observer - [access here](./observer/Blog.Java)  
 5.11 - AntiPattern - [access here](./observer/AntiPatternObserver.Java)  
-5.12 - UML - [access here](./observer/observerUML.png)  
+5.12 - UML - [access here](./observer/observerUML.png)
+5.13 - Explanation - [access here](./observer/Observer.MD)
