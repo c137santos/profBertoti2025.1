@@ -19,7 +19,8 @@ All registered Observers are notified and react accordingly through the update()
 
 ## UML
 
-![alt text](observerUML.png)
+
+![alt text](image.png)
 
 
 ## Anti-Patterns
@@ -43,3 +44,6 @@ Blog
 https://www.coursera.org/learn/design-patterns/lecture/LIUcy/2-1-4-factory-method-pattern
 
 https://refactoring.guru/design-patterns/observer
+
+
+seta do blog é pontilhada 

@@ -44,9 +44,7 @@ HostelInterface defines the method public String makeBed(), which ensures that b
 
 ## UML
 
-
-![alt text](compositeUML.png)
-
+![alt text](image-1.png)
 
 ## Anti-Patterns
 
@@ -80,3 +78,6 @@ https://www.coursera.org/learn/design-patterns/lecture/hWt11/2-1-3-singleton-pat
 https://www.youtube.com/watch?v=x9h8MgAvi_I
 
 https://refactoring.guru/design-patterns/singleton/java/example
+
+
+modificar a agregação para que seja o objeto permeavel. 
