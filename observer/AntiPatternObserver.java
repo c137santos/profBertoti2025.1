@@ -1,4 +1,8 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Blog {
+    
     private List<String> posts = new ArrayList<>();
     private boolean hasNewPost = false;
 

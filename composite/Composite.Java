@@ -81,6 +81,6 @@ public class HostelManagement {
         hostel.add(room1);
         hostel.add(room2);
 
-        hostel.makeBed();  // Agora chama makeBed() de forma genérica para tudo!
+        hostel.makeBed();
     }
 }
